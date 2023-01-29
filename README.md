@@ -1,4 +1,5 @@
 BİL201 Nesneye Yönelik Programlama Dönem Projesi
+Banka Otomasyonu Windows Form Uygulaması
 
 BANKA OTOMASYONU
 
