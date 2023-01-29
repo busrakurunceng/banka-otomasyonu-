@@ -1,0 +1,302 @@
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\practice\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\NESNE PROJESİ\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\busra\OneDrive\Masaüstü\Nesne Dönem Projesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\1.2\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\nesne1.3\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\sıfır hali - Kopya (2)\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\NESNESON\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\ssila\OneDrive\Masaüstü\nesne son denemeler\nesne son denemeler\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe.config
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\bin\Debug\nesne1.1.pdb
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.GelirGiderRaporu.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.girisEkrani.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Havale.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapKapat.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapListele.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapOzetiGoruntule.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.HesapSil.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriEkle.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriListele.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.MusteriSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.musteriSil.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaCek.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.ParaYatir.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelGiris.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.PersonelSecenek.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1._1.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.exe
+C:\Users\busra\OneDrive\Masaüstü\210601036_210601033_BüşraKURUN_SemraSılaERTUĞ_NesneDönemProjesi\nesne1.1\nesne1.1\obj\Debug\nesne1.1.pdb
